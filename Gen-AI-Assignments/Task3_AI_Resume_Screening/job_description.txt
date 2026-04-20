@@ -1,0 +1,11 @@
+Job Role: Data Scientist
+
+Required Skills:
+Python
+Machine Learning
+Deep Learning
+NLP
+SQL
+TensorFlow
+Scikit-learn
+Pandas

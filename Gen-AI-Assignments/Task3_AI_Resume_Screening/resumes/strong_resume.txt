@@ -1,0 +1,13 @@
+John Smith
+
+5 years experience in Data Science
+
+Skills:
+Python
+Machine Learning
+Deep Learning
+NLP
+SQL
+TensorFlow
+Pandas
+Scikit-learn

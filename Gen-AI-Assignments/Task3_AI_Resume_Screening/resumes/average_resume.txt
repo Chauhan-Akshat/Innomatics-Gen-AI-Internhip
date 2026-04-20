@@ -1,0 +1,9 @@
+Katie Smith
+
+2 years experience in analytics
+
+Skills:
+Python
+SQL
+Pandas
+Excel
